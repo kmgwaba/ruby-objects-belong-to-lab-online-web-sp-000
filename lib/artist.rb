@@ -1,4 +1,4 @@
 class Artist
-  attr_reader :name
-  @name = name 
+  attr_accessor :name
+  @name = name
 end
