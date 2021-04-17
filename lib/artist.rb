@@ -1,2 +1,3 @@
-class Artist(name)
+class Artist
+  attr_reader :name 
 end 
